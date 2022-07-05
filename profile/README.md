@@ -10,7 +10,7 @@ This is the API for the different projects of our community (bot Discord, Websit
 ### [Royaume Discord Bot](https://github.com/Virtual-Royaume/Royaume-Discord-Bot)
 It is the bot of our Discord community, it offers various utility features. It is written in TypeScript and uses the DiscordJS package to interact with the Discord API.
 
-### [Royaume Website](https://github.com/Virtual-Royaume/Royaume-Website)
+### [Royaume Website](https://github.com/Virtual-Royaume/Royaume-Website) (rewrite planned)
 This is the website of our community, where you can find information about our community, its members and a blog about the different topics we are passionate about. This site is written in JavaScript with Express, EJS and SCSS.
 
 The first version of this project is still under development, we want to rewrite the current base with React/NextJS before continuing the development.
