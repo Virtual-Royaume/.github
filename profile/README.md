@@ -13,7 +13,7 @@ It is the bot of our Discord community, it offers various utility features. It i
 ### [Royaume Website](https://github.com/Virtual-Royaume/Royaume-Website) (rewrite planned)
 This is the website of our community, where you can find information about our community, its members and a blog about the different topics we are passionate about. This site is written in JavaScript with Express, EJS and SCSS.
 
-The first version of this project is still under development, we want to rewrite the current base with React/NextJS before continuing the development.
+The first version of this project is still under development, we want to rewrite the current base with Svelte/SvelteKit before continuing the development.
 
 ## 📋 Join us
 You can join us on Discord with [this link](https://royaume.world/discord), to have access to the entirety of it, a small presentation of you will be asked.
