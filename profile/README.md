@@ -1,7 +1,5 @@
 # 👑 The Royaume
-**Le Royaume** is a French community on the Discord platform, with the objective of helping each other, discussing and debating on development.
-
-We use this GitHub organization for the common projects of our community members, the majority of our projects are open source. Pull requests and issues are mostly written in French but you can contribute in English too.
+A developer community. You can join us on Discord with [this link](https://royaume.world/discord).
 
 ## 🔩 Main projects
 ### [Royaume API](https://github.com/Virtual-Royaume/Royaume-API)
@@ -12,6 +10,3 @@ It is the bot of our Discord community, it offers various utility features. It i
 
 ### [Royaume Website](https://github.com/Virtual-Royaume/Royaume-Website) (V1 in progress)
 This is the website of our community, where you can find information about our community, its members and a blog. This site is written in TypeScript with Svelte, SvelteKit, Tailwind, Storybook and Testing Library.
-
-## 📋 Join us
-You can join us on Discord with [this link](https://royaume.world/discord), to have access to the entirety of it, a small presentation of you will be asked.
