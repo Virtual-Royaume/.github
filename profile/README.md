@@ -8,5 +8,5 @@ This is the API for the different projects of our community (bot Discord, Websit
 ### [Royaume Discord Bot](https://github.com/Virtual-Royaume/Royaume-Discord-Bot)
 It is the bot of our Discord community, it offers various utility features. It is written in TypeScript and uses the DiscordJS package to interact with the Discord API.
 
-### [Royaume Website](https://github.com/Virtual-Royaume/Royaume-Website) (V1 in progress)
+### [Royaume Website](https://github.com/Virtual-Royaume/Royaume-Website)
 This is the website of our community, where you can find information about our community, its members and a blog. This site is written in TypeScript with Svelte, SvelteKit, Tailwind, Storybook and Testing Library.
