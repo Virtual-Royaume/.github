@@ -1,5 +1,5 @@
 # 👑 The Royaume
-A developer community. You can join us on Discord with [this link](https://royaume.world/discord).
+A developer community. You can join us on Discord with [this link](https://royaume.world/discord/pro).
 
 ## 🔩 Main projects
 ### [Royaume Discord Bot](https://github.com/Virtual-Royaume/Royaume-Discord-Bot)
